@@ -8,7 +8,7 @@
 
 ## Overview
 
-`anglepy` is a lightweight deep generative Python framework designed for non-parametric distributional regression on circular data. Traditional regression targets the conditional mean, which can be geometrically misleading for circular responses under multimodal, skewed, or asymmetric data structures. ANGLE addresses these limitations by learning the full conditional distribution of an angular response, given Euclidean covariates, through a generative map optimized via a generalized circular energy score (GCES) loss.
+`anglepy` is a lightweight deep generative Python framework designed for non-parametric distributional regression on circular data. Traditional regression targets the conditional mean, which can be geometrically misleading for circular responses under multimodal, skewed, or asymmetric data structures. ANGLE addresses these limitations by learning the full conditional distribution of an angular response, given Euclidean and circular covariates, through a generative map optimized via a generalized circular energy score (GCES) loss.
 
 
 
