@@ -21,7 +21,6 @@
 * **Sufficient Dimension Reduction (SDR):** Finds low-dimensional representations of high-dimensional covariates without discarding predictive information.
 * **Conditional Distribution Equality Testing:** Provides unified methodologies to test equality across conditional distributions.
 * **Flexible Architecture:** Seamlessly accommodates both pre-additive and post-additive noise models (covariate noise and response noise).
-* **Theoretical Guarantees:** Establishes desirable theoretical properties, including the strict propriety of the loss and the rotational equivariance of the estimators.
 * **Computationally Efficient:** Maintains a bandwidth-free architecture that is significantly more lightweight than existing Bayesian alternatives.
 
 ## ⚙️ Installation
