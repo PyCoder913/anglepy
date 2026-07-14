@@ -1,0 +1,8 @@
+- The PASCAL3D+ dataset can be downloaded directly from the official host website: https://cvgl.stanford.edu/projects/pascal3d.html
+
+- We have also hosted it in this Drive link: https://drive.google.com/file/d/1obvO6ce9DZ3Fw6or_3RWwkY25wh9tVD_/view?usp=sharing
+
+Reference: Xiang, Yu, Roozbeh Mottaghi, and Silvio Savarese. 
+"Beyond pascal: A benchmark for 3d object detection in the wild." 
+IEEE winter conference on applications of computer vision. IEEE, 2014.
+
