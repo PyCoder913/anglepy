@@ -1,6 +1,4 @@
-# anglepy
-
-**ANGLE: Angular Neural Generative Learning via Engression**
+# ANGLE: Angular Neural Generative Learning via Engression
 
 **Authors:** Rajdeep Pathak, Archi Roy, Tanujit Chakraborty
 
