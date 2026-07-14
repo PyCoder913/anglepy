@@ -8,7 +8,7 @@ venv/
 env/
 .venv/
 
-# Sphinx built documentation (you only want to version the source files)
+# Sphinx built documentation
 docs/build/
 
 # Jupyter Notebook checkpoints
@@ -17,3 +17,8 @@ docs/build/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Package build files
+dist/
+build/
+*.egg-info/
