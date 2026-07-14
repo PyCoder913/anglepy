@@ -8,7 +8,7 @@ from .data_loader import make_dataloader
 from .utils import *
 
 class CircularEmbeddingLayer(nn.Module):
-    """
+    r"""
     Transforms specified angular or cyclic features into continuous representations using trigonometric embeddings.
     Used internally within ANGLE when the indices of circular covariates are specified.
 
@@ -59,7 +59,7 @@ class CircularEmbeddingLayer(nn.Module):
 
 
 class StoLayer(nn.Module):    
-    """
+    r"""
     A stochastic neural network layer that concatenates random noise to input features.
 
     This layer acts as a stochastic generator. It appends random noise (either Gaussian 
@@ -386,7 +386,7 @@ class StoNetBase(nn.Module):
     
     
 class StoNet(StoNetBase):
-    """
+    r"""
     A stochastic neural network.
 
     This network supports advanced architectural features including residual blocks, 

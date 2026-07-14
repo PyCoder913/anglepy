@@ -249,7 +249,7 @@ def plot_spokeplot(y_test, y_pred, ax, r_inner=1, r_outer=2, title="Spokeplot"):
     ax.set_title(title, y=-0.05, fontsize=14, fontweight='bold')
 
 def trigonometric_manova_two_sample(x1, x2):
-    """
+    r"""
     Computes the trigonometric MANOVA (Hotelling's :math:`T^2`) test for two circular samples.
 
     This function tests the null hypothesis :math:`H_0` that the mean vectors of two 
