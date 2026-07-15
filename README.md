@@ -2,7 +2,7 @@
 
 **Authors:** Rajdeep Pathak, Archi Roy, Tanujit Chakraborty
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/arXiv-Preprint-b31b1b.svg)](https://arxiv.org/abs/2607.12833) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -57,7 +57,7 @@ If you use this code, models, or find our work helpful in your research, please 
 @article{pathak2026angle,
   title={ANGLE: Angular Neural Generative Learning via Engression},
   author={Pathak, Rajdeep and Roy, Archi and Chakraborty, Tanujit},
-  journal={Coming soon},
+  journal={arXiv preprint arXiv:2607.12833},
   year={2026}
 }
 
