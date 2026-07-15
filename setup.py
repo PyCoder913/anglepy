@@ -21,7 +21,7 @@ setup(
     project_urls={
         "Documentation": "https://anglepy.readthedocs.io/",
         "Source Code": "https://github.com/PyCoder913/anglepy",
-        "Paper": "TBD",
+        "Paper": "https://arxiv.org/abs/2607.12833",
     },
     package_dir={"": "src"},
     packages=find_packages(where="src"),

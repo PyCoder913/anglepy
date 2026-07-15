@@ -5,7 +5,7 @@ If you use **anglepy** in your research or find it helpful for your work, please
 
 Plain Text
 ----------
-Pathak, R., Roy, A., & Chakraborty, T. (2026). ANGLE: Angular Neural Generative Learning via Engression. TBD.
+Pathak, R., Roy, A., & Chakraborty, T. (2026). ANGLE: Angular Neural Generative Learning via Engression. arXiv preprint arXiv:2607.12833.
 
 BibTeX
 ------
@@ -13,8 +13,8 @@ BibTeX
 
    @article{pathak2026angle,
      title={ANGLE: Angular Neural Generative Learning via Engression},
-     author={Pathak, Rajdeep and Roy, Anirban and Chakraborty, Tanujit},
-     journal={TBD},
+     author={Pathak, Rajdeep and Roy, Archi and Chakraborty, Tanujit},
+     journal={arXiv preprint arXiv:2607.12833},
      year={2026}
    }
    

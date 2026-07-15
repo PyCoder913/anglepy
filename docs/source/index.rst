@@ -58,6 +58,30 @@ Explore the Documentation
    examples/Example_Notebook
    cite
 
+
+Authors
+=======
+
+.. grid:: 3
+   :gutter: 3
+   :margin: 0
+
+   .. grid-item-card:: 👤 Rajdeep Pathak
+      :link: https://sites.google.com/view/rajdeeppathak/
+      :link-type: url
+      :text-align: center
+
+   .. grid-item-card:: 👤 Archi Roy
+      :link: https://sites.google.com/view/archi-roy
+      :link-type: url
+      :text-align: center
+
+   .. grid-item-card:: 👤 Tanujit Chakraborty
+      :link: https://www.ctanujit.org/
+      :link-type: url
+      :text-align: center
+
+
 Indices and Tables
 ==================
 
