@@ -18,7 +18,6 @@ setup(
         "Topic :: Scientific/Engineering",
         "Topic :: Scientific/Engineering :: Mathematics",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
-        "Topic :: Scientific/Engineering :: Circular Data Analysis",
     ],
     project_urls={
         "Documentation": "https://anglepy.readthedocs.io/",
