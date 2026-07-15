@@ -15,8 +15,9 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Mathematics",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
-        "Topic :: Scientific/Engineering :: Circular Data Analysis",
+        
     ],
     project_urls={
         "Documentation": "https://anglepy.readthedocs.io/",
